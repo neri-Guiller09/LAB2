@@ -1,5 +1,3 @@
-Overview
-
 This repository contains a To-Do List API developed using FastAPI. The API allows users to create, retrieve, update, and delete tasks. Each task contains an ID, title, description, and status indicating whether it is finished or not.
 
 Features
